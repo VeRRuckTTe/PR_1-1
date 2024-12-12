@@ -1,0 +1,21 @@
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\bin\Debug\PR_11.exe.config
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\bin\Debug\PR_11.exe
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\bin\Debug\PR_11.pdb
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\obj\Debug\PR_11.exe
+D:\Users\1213-10\Documents\2-ИСП\ОП.04\Корнеева\PR_11\obj\Debug\PR_11.pdb
+D:\Учеба (С#)\PR_11-main\PR_11\bin\Debug\PR_11.exe.config
+D:\Учеба (С#)\PR_11-main\PR_11\bin\Debug\PR_11.exe
+D:\Учеба (С#)\PR_11-main\PR_11\bin\Debug\PR_11.pdb
+D:\Учеба (С#)\PR_11-main\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+D:\Учеба (С#)\PR_11-main\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+D:\Учеба (С#)\PR_11-main\PR_11\obj\Debug\PR_11.exe
+D:\Учеба (С#)\PR_11-main\PR_11\obj\Debug\PR_11.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\bin\Debug\PR_11.exe.config
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\bin\Debug\PR_11.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\bin\Debug\PR_11.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\obj\Debug\PR_11.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_11\obj\Debug\PR_11.pdb
